@@ -101,7 +101,7 @@ nav ul li a img{
 .home-container{
     width: 100%;
     height: 100vh;
-    background-image: url("public/index-hero.jpg");
+    background-image: url("/index-hero.jpg");
     background-size: cover;
     display: flex;
     justify-content: center;
@@ -121,7 +121,7 @@ nav ul li a img{
 }
 
 .home-second-container{
-    background-image: url("public/index-second-image.jpg");
+    background-image: url("/index-second-image.jpg");
     width: 100%;
     height: 100vh;
     background-repeat: no-repeat;
@@ -229,7 +229,7 @@ footer{
 .about-container{
     height: 100vh;
     width: 100%;
-    background-image: url("public/about-image.jpg");
+    background-image: url("/about-image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;

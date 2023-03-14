@@ -13,7 +13,7 @@ export default function Navbar(){
         <nav>
             <div className="nav-logo">
                 <p>FrameByFrame</p>
-                <img src="../public/camera-icon-21.png" alt="" />
+                <img src="/camera-icon-21.png" alt="" />
             </div>
             <ul className={active ? "show" : ""}>
                 <li>
